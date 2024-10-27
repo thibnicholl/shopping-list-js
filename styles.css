@@ -45,14 +45,14 @@ header h1 {
   font-weight: 300;
   margin-left: 10px;
   color: white;
-  font-family: 'Montserrat';
+  /* font-family: 'Montserrat'; */
   font-weight: 800;
   font-style: italic;
 }
 
 .container {
   max-width: 500px;
-  margin: 30px auto;
+  margin: 30px;
   /* padding: 20px; */
   border-radius: 10px;
   background: white;
